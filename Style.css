@@ -301,3 +301,5 @@ p {
     background: #000000;
     margin-bottom: 60px;
 }
+
+@media screen{max-width 768px}
